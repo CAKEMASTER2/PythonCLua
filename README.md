@@ -1,2 +1,1 @@
-# PythonCLua
-Python environment support in lua
+https://clck.ru/3LXs6c
